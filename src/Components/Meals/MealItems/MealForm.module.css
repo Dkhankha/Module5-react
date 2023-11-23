@@ -1,0 +1,13 @@
+.form input{
+    width: 25px;
+    margin-left: 5px;
+}
+
+.form button{
+    width: 100px;
+    
+}
+
+.form label{
+    font-weight:bold;
+}
