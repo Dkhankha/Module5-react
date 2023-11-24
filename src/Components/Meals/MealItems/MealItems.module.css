@@ -20,13 +20,3 @@
     color: #ad5502;
     font-size: 1.25rem;
   }
-
-  .btn button{
-    width: 90px;
-    background-color: #ad5502;
-    height: 25px;
-    border: none;
-    border-radius: 12px;
-    color: white;
-    margin-top: 10px;
-  }
