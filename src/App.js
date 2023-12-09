@@ -14,7 +14,7 @@ function App() {
   const closecarthandler = () => {
     setShowCart(false)
   }
-
+  
   return (
     <CartProvider>
       {showCart && <Cart onClose={closecarthandler}/>}
